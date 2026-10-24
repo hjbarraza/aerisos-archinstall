@@ -1,5 +1,7 @@
 # AerisOS archinstall config
 
+![Boot splash](splash.png)
+
 An [archinstall](https://github.com/archlinux/archinstall) configuration with every AerisOS repo package preselected. It is the first step of a new AerisOS machine; the second is `install.sh` from [aerisos](https://github.com/hjbarraza/aerisos).
 
 ## Install
